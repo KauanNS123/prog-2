@@ -1,0 +1,6 @@
+salario = 1000
+desconto = 300
+
+resultado = salario - desconto
+
+print ("o total e", resultado)
